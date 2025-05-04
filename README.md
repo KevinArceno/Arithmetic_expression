@@ -148,7 +148,7 @@ Color-coded nodes:
     | Learning Curve   | Easier with examples        | More verbose, lower-level |
 
 # 📄 License
-This project is licensed under the Apache-2.0 license file. See the LICENSE file.
+This project is licensed under the [![MIT: License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/KevinArceno/Arithmetic_expression/blob/620d9f91507e4a07090b1e93878f7facf982f6bb/LICENSE) file. See the LICENSE file.
 
 
 # 🙏 Acknowledgments
